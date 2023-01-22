@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StarMatch/static/css/main.5a3679dc.css",
+    "main.js": "/StarMatch/static/js/main.5f2cb5c8.js",
+    "index.html": "/StarMatch/index.html",
+    "main.5a3679dc.css.map": "/StarMatch/static/css/main.5a3679dc.css.map",
+    "main.5f2cb5c8.js.map": "/StarMatch/static/js/main.5f2cb5c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a3679dc.css",
+    "static/js/main.5f2cb5c8.js"
+  ]
+}
